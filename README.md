@@ -12,9 +12,10 @@ Ask me anything about...
 
 Reach out to me at...
 
-<a href="https://twitter.com/burhanrashid52">
-  <img align="left" alt="Burhanuddin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/kabirou_agouda">
+  <img align="left" alt="Agouda's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a><a href="https://www.linkedin.com/in/kabirou-agouda">
+   <img align="left" alt="Agouda's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
 <br/>
