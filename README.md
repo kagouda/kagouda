@@ -23,9 +23,10 @@ Reach out to me at...
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kagouda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
+<img src="https://www.scottbrady91.com/img/logos/dart.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.scottbrady91.com/img/logos/dart.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 #### Tools and Frameworks
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
