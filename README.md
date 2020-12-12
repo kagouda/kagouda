@@ -7,7 +7,7 @@ Developer in Flutter and Application Developer from Paris, France . I love build
 <br/>
 Ask me anything about...
 
-<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/react-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
+<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
 
 
 Reach out to me at...
@@ -30,14 +30,13 @@ Reach out to me at...
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
 <br/>
 
-<a href="https://github.com/iampawan">
+/*<a href="https://github.com/iampawan">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanrashid52&theme=light&hide_langs_below=1" />
-</a>
+</a>*/
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Dart
