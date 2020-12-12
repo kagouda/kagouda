@@ -34,6 +34,10 @@ Reach out to me at...
 <br/>
 <br/>
 
+<a href="https://github.com/iampawan">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagouda&theme=light&hide_langs_below=1" />
+</a>
+
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Dart
 - 👯 I’m looking to collaborate on Mobile Project
