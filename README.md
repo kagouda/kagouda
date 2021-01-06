@@ -2,7 +2,7 @@
 
 ## Hey, I'm [Kabirou Agouda !](https://www.linkedin.com/in/kabirou-agouda/) 👋 <a align="left">
 
-Developer in Flutter and Dart from Paris, France . I 💙 [Dart + Flutter] and like to make things with code .
+Developer in Flutter and Dart from Paris, France . I 💙 `Dart + Flutter` and like to make things with code .
 <br/>
 <br/>
 
