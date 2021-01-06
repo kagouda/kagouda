@@ -15,6 +15,9 @@ Developer in Flutter and Application Developer from Paris, France . I 💙 Flutt
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also passionate about artificial intelligence.
 
+<a href="https://github.com/kagouda">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagouda&theme=light&hide_langs_below=1" />
+</a>
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -25,11 +28,7 @@ Developer in Flutter and Application Developer from Paris, France . I 💙 Flutt
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<a href="https://github.com/kagouda">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagouda&theme=light&hide_langs_below=1" />
-</a>
-
-### Follow me on:
+### Follow me :
 
 <a href="https://www.linkedin.com/in/kabirou-agouda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/kabirou_agouda" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
