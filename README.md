@@ -17,10 +17,11 @@ Developer in Flutter and Application Developer from Paris, France . I 💙 Flutt
 
 Reach out to me at...
 
-<a href="https://twitter.com/kabirou_agouda">
-  <img align="left" alt="Agouda's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a><a href="https://www.linkedin.com/in/kabirou-agouda">
-   <img align="left" alt="Agouda's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### Follow me:
+
+<a href="https://www.linkedin.com/in/kabirou-agouda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.twitter.com/kabirou_agouda" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+
 </a>
 <br/>
 <br/>
@@ -41,6 +42,6 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/kagouda">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagouda&theme=light&hide_langs_below=1" />
 </a>
