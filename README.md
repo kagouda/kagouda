@@ -2,7 +2,7 @@
 
 ## Hey, I'm [Kabirou Agouda !](https://www.linkedin.com/in/kabirou-agouda/) 👋 <a align="left">
 
-Developer in Flutter and Application Developer from Paris, France . I love building applications & discussing new product ideas.
+Developer in Flutter and Application Developer from Paris, France . I 💙 Flutter! Like to make things with code .
 <br/>
 <br/>
 You can ask me anything about...
