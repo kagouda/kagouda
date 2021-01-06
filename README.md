@@ -5,10 +5,15 @@
 Developer in Flutter and Application Developer from Paris, France . I 💙 Flutter! Like to make things with code .
 <br/>
 <br/>
-You can ask me anything about...
 
-<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
-
+- 🔭 I’m currently working on `Flutter` 🚀💙
+- 🌱 I’m currently learning Dart
+- 👯 I’m looking to collaborate on a Flutter Open-Source project! ✌😁
+- 🤔 I’m looking for help with my open source projects
+- 💬 Ask me about Flutter and I will answer eagerly! 😎
+- 📫 How to reach me: [Twitter](https://twitter.com/kabirou_agouda/), [Linkedin](https://www.linkedin.com/in/kabirou-agouda/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am also passionate about artificial intelligence.
 
 Reach out to me at...
 
@@ -39,10 +44,3 @@ Reach out to me at...
 <a href="https://github.com/iampawan">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagouda&theme=light&hide_langs_below=1" />
 </a>
-
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Dart
-- 👯 I’m looking to collaborate on Mobile Project
-- 🤔 I’m looking for help with my open source projects
-- 📫 How to reach me at 2001agouda@gmail.com
-- ⚡ Fun fact: I am also passionate about artificial intelligence.
