@@ -15,18 +15,7 @@ Developer in Flutter and Application Developer from Paris, France . I 💙 Flutt
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also passionate about artificial intelligence.
 
-### Follow me on:
-
-<a href="https://www.linkedin.com/in/kabirou-agouda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.twitter.com/kabirou_agouda" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-
-</a>
-<br/>
-<br/>
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kagouda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
-### Languages & Tools
+### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -34,6 +23,16 @@ Developer in Flutter and Application Developer from Paris, France . I 💙 Flutt
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### Follow me on:
+
+<a href="https://www.linkedin.com/in/kabirou-agouda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.twitter.com/kabirou_agouda" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+</a>
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kagouda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+
+
 <br/>
 <br/>
 
