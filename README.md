@@ -7,7 +7,7 @@ Developer in Flutter and Dart from Paris, France . I 💙 `Dart + Flutter` and l
 <br/>
 
 - 🔭 I’m currently working on `Flutter` 🚀💙
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning `Dart`
 - 👯 I’m looking to collaborate on a Flutter Open-Source project! ✌😁
 - 🤔 I’m looking for help with my open source projects
 - 💬 Ask me about Flutter and I will answer eagerly! 😎
