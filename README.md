@@ -10,10 +10,10 @@ Flutter and Dart Developer from Paris, France . I 💙 `Dart + Flutter` and like
 - 🌱 I’m currently learning `Dart`
 - 👯 I’m looking to collaborate on a Flutter Open-Source project! ✌😁
 - 🤔 I’m looking for help with my open source projects
-- 💬 Ask me about Flutter and I will answer eagerly! 😎
+- 💬  Ask me about Flutter or Dart and I will gladly answer! 😎
 - 📫 How to reach me: [Twitter](https://twitter.com/kabirou_agouda/), [Linkedin](https://www.linkedin.com/in/kabirou-agouda/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am also passionate about artificial intelligence.
+- ⚡ Fun fact: I'm also passionate about artificial intelligence.
 
 <a href="https://github.com/kagouda">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagouda&theme=light&hide_langs_below=1" />
